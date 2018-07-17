@@ -1,1 +1,1 @@
-testing
+Program assignments of Couresa Machine Learning course
